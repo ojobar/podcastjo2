@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "YouTube video downloader"
+name = "youtube-dl"
+optional = false
+python-versions = "*"
+version = "2020.5.29"
+
+[metadata]
+content-hash = "5e9c7d28f623a2809cce168384d5c9bcabba260900fdb25f8262c67ca71d6c8c"
+python-versions = "^3.7"
+
+[metadata.hashes]
+youtube-dl = ["1a3d84afa851dce2fccc2dfc0f9ffa0e22314ffba6d528b34b4a7fe3e0cf2264", "2d45840772ecc57e151b0be78dd89e9772b6aa29295746be38abb9c30dad5bb3"]

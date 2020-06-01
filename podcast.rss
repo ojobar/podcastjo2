@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Bajocast</title>
+    <googleplay:author>SB</googleplay:author>
+    <itunes:author>SB</itunes:author>
+    <googleplay:category text="Technology"/>
+    <itunes:category text="Technology"/>
+    <googleplay:email>heroku-marketing-web-ops+accounts@salesforce.com</googleplay:email>
+    <itunes:email>heroku-marketing-web-ops+accounts@salesforce.com</itunes:email>
+    <link>https://www.heroku.com/podcasts/codeish</link>
+    <description>A podcast from the team at Bajo.</description>
+    <googleplay:description>A podcast from the team at Bajo.</googleplay:description>
+    <itunes:summary>A podcast from the team at Bajo.</itunes:summary>
+    <googleplay:image href="https://i.imgflip.com/3bs89r.jpg"/>
+    <itunes:image href="https://i.imgflip.com/3bs89r.jpg"/>
+    <language>en-us</language>
+    <ttl>60</ttl>
+    <itunes:explicit>no</itunes:explicit>
+    <googleplay:explicit>no</googleplay:explicit>
+        <item>
+      <title>Naval Ravikant: EHF New Zealand Interview</title>
+      <itunes:title>Naval Ravikant: EHF New Zealand Interview</itunes:title>
+      <googleplay:author>SB</googleplay:author>
+      <itunes:author>SB</itunes:author>
+      <link>https://www.youtube.com/watch?v=5aveIZElmsM</link>
+      <enclosure url="https://r1---sn-qxoedn7k.googlevideo.com/videoplayback?expire=1591049384&amp;ei=SCjVXsWsI4fzNtmDoqAB&amp;ip=35.238.138.224&amp;id=o-AFg-0NmPq_kGzli03xFnd5hh6EcloL6RTvF1xAP0J0Pv&amp;itag=140&amp;source=youtube&amp;requiressl=yes&amp;mh=yQ&amp;mm=31%2C26&amp;mn=sn-qxoedn7k%2Csn-5goeen7y&amp;ms=au%2Conr&amp;mv=u&amp;mvi=0&amp;pl=23&amp;vprv=1&amp;mime=audio%2Fmp4&amp;gir=yes&amp;clen=16529451&amp;dur=1021.306&amp;lmt=1560809933432637&amp;mt=1591027614&amp;fvip=1&amp;keepalive=yes&amp;c=WEB&amp;txp=5431432&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&amp;sig=AOq0QJ8wRQIhANKZ1RAqWHb3KlQ0ZbbeK4SrduL85RS_or_MZg925sZWAiA9OBQ1yCcJFHWRapDvNWUIs6wyBET9GPfnfUYNr74iQA%3D%3D&amp;lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&amp;lsig=AG3C_xAwRAIgZopUMwfAlpiX71fn8_DCdyfL0dQHgyM6DgOHZJTvkkcCIBdQmsmwWeIOFVpjAlUw7HnxHxndhIea-k2xRzMBgbFn&amp;ratebypass=yes" type="audio/x-mp3" length="18322645"/>
+      <pubDate>Thu, 28 May 2020 00:00:00 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=5aveIZElmsM</guid>
+      <description>&lt;p&gt;Naval Ravikant - founder of AngelList, CoinList, and prominent angel investor - shares his perspective on EHF and building a technology hub in Aotearoa New Zealand.
+
+Recorded at the New Frontiers 2019 summit, hosted by Edmund Hillary Fellowship (https://www.ehf.org). See Naval's full talks on stage:
+
+Part 1: https://youtu.be/kvGFldxwjhY
+Part 2: https://youtu.be/SHxnAVbtpEI
+
+Follow @Naval and @EHFNewZealand on Twitter for more.&lt;/p&gt;
+      </description>
+      <itunes:summary>&lt;p&gt;Naval Ravikant - founder of AngelList, CoinList, and prominent angel investor - shares his perspective on EHF and building a technology hub in Aotearoa New Zealand.
+
+Recorded at the New Frontiers 2019 summit, hosted by Edmund Hillary Fellowship (https://www.ehf.org). See Naval's full talks on stage:
+
+Part 1: https://youtu.be/kvGFldxwjhY
+Part 2: https://youtu.be/SHxnAVbtpEI
+
+Follow @Naval and @EHFNewZealand on Twitter for more.&lt;/p&gt;
+      </itunes:summary>
+      <googleplay:description>&lt;p&gt;Naval Ravikant - founder of AngelList, CoinList, and prominent angel investor - shares his perspective on EHF and building a technology hub in Aotearoa New Zealand.
+
+Recorded at the New Frontiers 2019 summit, hosted by Edmund Hillary Fellowship (https://www.ehf.org). See Naval's full talks on stage:
+
+Part 1: https://youtu.be/kvGFldxwjhY
+Part 2: https://youtu.be/SHxnAVbtpEI
+
+Follow @Naval and @EHFNewZealand on Twitter for more.&lt;/p&gt;
+      </googleplay:description>
+    </item>
+        <item>
+      <title>Joe Rogan Experience #1309 - Naval Ravikant</title>
+      <itunes:title>Joe Rogan Experience #1309 - Naval Ravikant</itunes:title>
+      <googleplay:author>SB</googleplay:author>
+      <itunes:author>SB</itunes:author>
+      <link>https://www.youtube.com/watch?v=3qHkcs3kG44</link>
+      <enclosure url="https://r1---sn-qxoedn7d.googlevideo.com/videoplayback?expire=1591049385&amp;ei=SSjVXsiMGdKE1uUP1NuOoAY&amp;ip=35.238.138.224&amp;id=o-AFLmq0QdUKnZw8l1VWZ64mpUaL7PfmT364gZpRYjitzA&amp;itag=140&amp;source=youtube&amp;requiressl=yes&amp;mh=2O&amp;mm=31%2C26&amp;mn=sn-qxoedn7d%2Csn-5goeen7k&amp;ms=au%2Conr&amp;mv=u&amp;mvi=0&amp;pl=23&amp;vprv=1&amp;mime=audio%2Fmp4&amp;gir=yes&amp;clen=128113556&amp;dur=7916.076&amp;lmt=1580845866069313&amp;mt=1591027614&amp;fvip=1&amp;keepalive=yes&amp;c=WEB&amp;txp=5531432&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&amp;sig=AOq0QJ8wRQIhAO8wb-mKc2x9XFbjrfjLS9Ftr3aw7hxLJRSwqoNkKe_IAiB1LGeLiP882xOxQblgDXSS29ImVUBLJxmGJtVsRv_6mQ%3D%3D&amp;lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&amp;lsig=AG3C_xAwRQIhANUu-C1EQwsCap9nm4GrqAoAXOlhSpMjvSYjm2ls2tV2AiA2InSecaD_IIbkiP-h7uPr0Fo6TOmSrXPLXLrAFZggNg%3D%3D&amp;ratebypass=yes" type="audio/x-mp3" length="18322645"/>
+      <pubDate>Thu, 28 May 2020 00:00:00 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=3qHkcs3kG44</guid>
+      <description>&lt;p&gt;Naval Ravikant is an entrepreneur and angel investor, a co-author of Venture Hacks, and a co-maintainer of AngelList.&lt;/p&gt;
+      </description>
+      <itunes:summary>&lt;p&gt;Naval Ravikant is an entrepreneur and angel investor, a co-author of Venture Hacks, and a co-maintainer of AngelList.&lt;/p&gt;
+      </itunes:summary>
+      <googleplay:description>&lt;p&gt;Naval Ravikant is an entrepreneur and angel investor, a co-author of Venture Hacks, and a co-maintainer of AngelList.&lt;/p&gt;
+      </googleplay:description>
+    </item>
+        <item>
+      <title>Naval Ravikant: The Prisoner's Dilemma</title>
+      <itunes:title>Naval Ravikant: The Prisoner's Dilemma</itunes:title>
+      <googleplay:author>SB</googleplay:author>
+      <itunes:author>SB</itunes:author>
+      <link>https://www.youtube.com/watch?v=bOQj6Asiw-4</link>
+      <enclosure url="https://r4---sn-qxo7rn7e.googlevideo.com/videoplayback?expire=1591049386&amp;ei=SijVXqJcvYuKvg_zz7CIBQ&amp;ip=35.238.138.224&amp;id=o-ADyaeAy3gmh4aq_26kqXDDkxhzRCoWdmQekH_nk0yvpT&amp;itag=140&amp;source=youtube&amp;requiressl=yes&amp;mh=q_&amp;mm=31%2C29&amp;mn=sn-qxo7rn7e%2Csn-qxoedn7d&amp;ms=au%2Crdu&amp;mv=u&amp;mvi=3&amp;pl=23&amp;vprv=1&amp;mime=audio%2Fmp4&amp;gir=yes&amp;clen=3796192&amp;dur=234.521&amp;lmt=1560458021314193&amp;mt=1591027614&amp;fvip=4&amp;keepalive=yes&amp;c=WEB&amp;txp=5432432&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&amp;sig=AOq0QJ8wRQIgS3Nn24SaO3ARgaLUrUszJSRnY5_Yd67h_ylE2FJYAcwCIQCHU75CANSpt6bMT2dhkmUcv0a5kEOfUNOucijIWiqurw%3D%3D&amp;lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&amp;lsig=AG3C_xAwRQIhANS9evteuPTcmgMBeYUoN8DA9dhRoQOVBiXohHj3XJSHAiBeaO0Krsniv1HuSz9TzCS70XeqgeYt_5jAdPlVnzi8VQ%3D%3D&amp;ratebypass=yes" type="audio/x-mp3" length="18322645"/>
+      <pubDate>Thu, 28 May 2020 00:00:00 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=bOQj6Asiw-4</guid>
+      <description>&lt;p&gt;In a fireside chat with Sarah Lacy, AngelList founder Naval Ravikant talks about cheaters in the ecosystem.&lt;/p&gt;
+      </description>
+      <itunes:summary>&lt;p&gt;In a fireside chat with Sarah Lacy, AngelList founder Naval Ravikant talks about cheaters in the ecosystem.&lt;/p&gt;
+      </itunes:summary>
+      <googleplay:description>&lt;p&gt;In a fireside chat with Sarah Lacy, AngelList founder Naval Ravikant talks about cheaters in the ecosystem.&lt;/p&gt;
+      </googleplay:description>
+    </item>
+        <item>
+      <title>Fireside Chat with Naval Ravikant and Neal Stephenson | Blockstack Summit 2019</title>
+      <itunes:title>Fireside Chat with Naval Ravikant and Neal Stephenson | Blockstack Summit 2019</itunes:title>
+      <googleplay:author>SB</googleplay:author>
+      <itunes:author>SB</itunes:author>
+      <link>https://www.youtube.com/watch?v=0JDFd_BoN1k</link>
+      <enclosure url="https://r2---sn-qxo7rn7e.googlevideo.com/videoplayback?expire=1591049386&amp;ei=SijVXuuUK4SyigT4r7-oDQ&amp;ip=35.238.138.224&amp;id=o-AHnqh5R3bJC3Rqi9LkTUmDj0BUys--kDRNwxp3QjE1Qm&amp;itag=140&amp;source=youtube&amp;requiressl=yes&amp;mh=D0&amp;mm=31%2C29&amp;mn=sn-qxo7rn7e%2Csn-qxoedn7z&amp;ms=au%2Crdu&amp;mv=u&amp;mvi=1&amp;pl=23&amp;pcm2=yes&amp;vprv=1&amp;mime=audio%2Fmp4&amp;gir=yes&amp;clen=58319751&amp;dur=3603.527&amp;lmt=1575952462432002&amp;mt=1591027614&amp;fvip=2&amp;keepalive=yes&amp;c=WEB&amp;txp=5431432&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cpcm2%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&amp;sig=AOq0QJ8wRQIhAIUzEinFHsRWl9EZ8TlMA_pyue-KOQ3QncuocLRCpSvEAiAsMzrz8fHEcLdKk76qqIWxzkb0l5HIpmyI9z89NvmBqQ%3D%3D&amp;lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&amp;lsig=AG3C_xAwRgIhAMwTJjbjy8FCUiLlSE-JFbTq7JUa-7m1qie8lKs-t09TAiEA802HIGZjKLa6Ku7KAmHEL-co8vpCmxn2XGuE-ANTDs4%3D&amp;ratebypass=yes" type="audio/x-mp3" length="18322645"/>
+      <pubDate>Thu, 28 May 2020 00:00:00 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=0JDFd_BoN1k</guid>
+      <description>&lt;p&gt;Naval Ravikant (Entrepreneur, Angel Investor) and Neal Stephenson (Best selling author) had a fireside chat at the 2019 Blockstack Summit in San Francisco on 10.23.19.
+
+https://blockstack.org/
+
+https://summit.blockstack.org/&lt;/p&gt;
+      </description>
+      <itunes:summary>&lt;p&gt;Naval Ravikant (Entrepreneur, Angel Investor) and Neal Stephenson (Best selling author) had a fireside chat at the 2019 Blockstack Summit in San Francisco on 10.23.19.
+
+https://blockstack.org/
+
+https://summit.blockstack.org/&lt;/p&gt;
+      </itunes:summary>
+      <googleplay:description>&lt;p&gt;Naval Ravikant (Entrepreneur, Angel Investor) and Neal Stephenson (Best selling author) had a fireside chat at the 2019 Blockstack Summit in San Francisco on 10.23.19.
+
+https://blockstack.org/
+
+https://summit.blockstack.org/&lt;/p&gt;
+      </googleplay:description>
+    </item>
+        <item>
+      <title>Fireside Chat with Naval Ravikant - New Frontiers 2019</title>
+      <itunes:title>Fireside Chat with Naval Ravikant - New Frontiers 2019</itunes:title>
+      <googleplay:author>SB</googleplay:author>
+      <itunes:author>SB</itunes:author>
+      <link>https://www.youtube.com/watch?v=kvGFldxwjhY</link>
+      <enclosure url="https://r3---sn-qxoedn7k.googlevideo.com/videoplayback?expire=1591049387&amp;ei=SyjVXqC7F4vtwQHLs6_AAw&amp;ip=35.238.138.224&amp;id=o-AGqKqY2OpNwGe1pccXJ6NUaCinGEZV_5bXMG8vz9qr6i&amp;itag=140&amp;source=youtube&amp;requiressl=yes&amp;mh=qo&amp;mm=31%2C29&amp;mn=sn-qxoedn7k%2Csn-qxo7rn7l&amp;ms=au%2Crdu&amp;mv=u&amp;mvi=2&amp;pl=23&amp;vprv=1&amp;mime=audio%2Fmp4&amp;gir=yes&amp;clen=22037781&amp;dur=1361.664&amp;lmt=1555353818644091&amp;mt=1591027614&amp;fvip=3&amp;keepalive=yes&amp;c=WEB&amp;txp=5431432&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&amp;sig=AOq0QJ8wRAIgL1RLhvxXRifitfff62qbVSdm_FkYtcHpacScSvetixUCIGpgPCZ9vkkbFrSUM8glUf0HUByBPiR-OHiuTBx4rGyw&amp;lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&amp;lsig=AG3C_xAwRAIgMsXl-xFpAMwIYolLuhrSOEUiv21CitNJITod03jlk4oCIDmFWYLYLCAz--qq2rzdLPwx9FaMr6SwGtwX-Vmlm21i&amp;ratebypass=yes" type="audio/x-mp3" length="18322645"/>
+      <pubDate>Thu, 28 May 2020 00:00:00 GMT</pubDate>
+      <guid>https://www.youtube.com/watch?v=kvGFldxwjhY</guid>
+      <description>&lt;p&gt;Naval Ravikant - founder of AngelList, CoinList, and prominent Silicon Valley investor - discusses crypto, being happy, and government policy settings for attracting entrepreneurial talent to New Zealand.
+
+This is part 1 of Naval's talks on stage at the New Frontiers 2019 summit, go here to watch part 2: https://youtu.be/SHxnAVbtpEI
+
+For a condensed version of both parts, go here: https://youtu.be/GSW9MGmegOg
+
+And see Naval's backstage interview here: https://youtu.be/5aveIZElmsM
+
+Interview by Matthew Monahan.
+
+Learn more about EHF at https://www.ehf.org
+
+Follow @Naval and @EHFNewZealand on Twitter.
+
+This video was filmed at New Frontiers / Te Tūhura Nuku – March 2019 in Upper Hutt, New Zealand. https://www.newfrontiers.nz
+
+New Frontiers is hosted by the Edmund Hillary Fellowship (EHF), a global community of changemakers based out of Aotearoa New Zealand. EHF brings together humankind’s creative potential and entrepreneurial spirit in New Zealand, to build and support innovative ventures for global impact, in partnership with New Zealand's Global Impact Visa. Apply today for the opportunity of a lifetime! - https://www.ehf.org
+
+Subscribe to the EHF channel to watch more videos from this event and from our inspiring community: https://youtube.com/user/kiwiconnectedu?sub_confirmation=1
+
+Heartfelt thanks to Te Ati Awa, the local Māori iwi in the Wellington region who are mana whenua over these lands, and an EHF partner: https://teatiawa.iwi.nz/
+
+https://www.ehf.org
+https://stories.ehf.org
+https://facebook.com/edmundhillaryfel...
+https://twitter.com/EHFNewZealand
+https://instagram.com/edmundhillaryfe...
+https://www.linkedin.com/company-beta...
+https://www.newzealandnow.govt.nz/inv...
+
+EHF is wholly owned by the Hillary Institute of International Leadership (http://www.hillaryinstitute.com), and operates in partnership with Immigration New Zealand (https://www.immigration.govt.nz)
+
+Thank you to our EHF Catalysts, who support and catalyse the work of our Fellows:
+
+Centrality - https://www.centrality.ai
+BNZ - https://www.bnz.co.nz
+Wellington Regional Economic Development Agency (WREDA) - https://www.wellingtonnz.com/about-wreda
+Auckland Tourism, Events, Entertainment and Development (ATEED) - https://www.aucklandnz.com/about-ateed
+PL^G - https://www.plugblockchain.com
+SingleSource - https://www.centrality.ai/project/sin...
+Bell Gully - https://www.bellgully.com
+EY - https://webforms.ey.com
+Lane Neave - https://www.laneneave.co.nz
+The Blockchain Boutique - https://www.facebook.com/BlockchainBo...
+Digital Storytellers - http://digitalstorytellers.com.au
+
+Video produced by Royster Productions - http://www.roysterproductions.com&lt;/p&gt;
+      </description>
+      <itunes:summary>&lt;p&gt;Naval Ravikant - founder of AngelList, CoinList, and prominent Silicon Valley investor - discusses crypto, being happy, and government policy settings for attracting entrepreneurial talent to New Zealand.
+
+This is part 1 of Naval's talks on stage at the New Frontiers 2019 summit, go here to watch part 2: https://youtu.be/SHxnAVbtpEI
+
+For a condensed version of both parts, go here: https://youtu.be/GSW9MGmegOg
+
+And see Naval's backstage interview here: https://youtu.be/5aveIZElmsM
+
+Interview by Matthew Monahan.
+
+Learn more about EHF at https://www.ehf.org
+
+Follow @Naval and @EHFNewZealand on Twitter.
+
+This video was filmed at New Frontiers / Te Tūhura Nuku – March 2019 in Upper Hutt, New Zealand. https://www.newfrontiers.nz
+
+New Frontiers is hosted by the Edmund Hillary Fellowship (EHF), a global community of changemakers based out of Aotearoa New Zealand. EHF brings together humankind’s creative potential and entrepreneurial spirit in New Zealand, to build and support innovative ventures for global impact, in partnership with New Zealand's Global Impact Visa. Apply today for the opportunity of a lifetime! - https://www.ehf.org
+
+Subscribe to the EHF channel to watch more videos from this event and from our inspiring community: https://youtube.com/user/kiwiconnectedu?sub_confirmation=1
+
+Heartfelt thanks to Te Ati Awa, the local Māori iwi in the Wellington region who are mana whenua over these lands, and an EHF partner: https://teatiawa.iwi.nz/
+
+https://www.ehf.org
+https://stories.ehf.org
+https://facebook.com/edmundhillaryfel...
+https://twitter.com/EHFNewZealand
+https://instagram.com/edmundhillaryfe...
+https://www.linkedin.com/company-beta...
+https://www.newzealandnow.govt.nz/inv...
+
+EHF is wholly owned by the Hillary Institute of International Leadership (http://www.hillaryinstitute.com), and operates in partnership with Immigration New Zealand (https://www.immigration.govt.nz)
+
+Thank you to our EHF Catalysts, who support and catalyse the work of our Fellows:
+
+Centrality - https://www.centrality.ai
+BNZ - https://www.bnz.co.nz
+Wellington Regional Economic Development Agency (WREDA) - https://www.wellingtonnz.com/about-wreda
+Auckland Tourism, Events, Entertainment and Development (ATEED) - https://www.aucklandnz.com/about-ateed
+PL^G - https://www.plugblockchain.com
+SingleSource - https://www.centrality.ai/project/sin...
+Bell Gully - https://www.bellgully.com
+EY - https://webforms.ey.com
+Lane Neave - https://www.laneneave.co.nz
+The Blockchain Boutique - https://www.facebook.com/BlockchainBo...
+Digital Storytellers - http://digitalstorytellers.com.au
+
+Video produced by Royster Productions - http://www.roysterproductions.com&lt;/p&gt;
+      </itunes:summary>
+      <googleplay:description>&lt;p&gt;Naval Ravikant - founder of AngelList, CoinList, and prominent Silicon Valley investor - discusses crypto, being happy, and government policy settings for attracting entrepreneurial talent to New Zealand.
+
+This is part 1 of Naval's talks on stage at the New Frontiers 2019 summit, go here to watch part 2: https://youtu.be/SHxnAVbtpEI
+
+For a condensed version of both parts, go here: https://youtu.be/GSW9MGmegOg
+
+And see Naval's backstage interview here: https://youtu.be/5aveIZElmsM
+
+Interview by Matthew Monahan.
+
+Learn more about EHF at https://www.ehf.org
+
+Follow @Naval and @EHFNewZealand on Twitter.
+
+This video was filmed at New Frontiers / Te Tūhura Nuku – March 2019 in Upper Hutt, New Zealand. https://www.newfrontiers.nz
+
+New Frontiers is hosted by the Edmund Hillary Fellowship (EHF), a global community of changemakers based out of Aotearoa New Zealand. EHF brings together humankind’s creative potential and entrepreneurial spirit in New Zealand, to build and support innovative ventures for global impact, in partnership with New Zealand's Global Impact Visa. Apply today for the opportunity of a lifetime! - https://www.ehf.org
+
+Subscribe to the EHF channel to watch more videos from this event and from our inspiring community: https://youtube.com/user/kiwiconnectedu?sub_confirmation=1
+
+Heartfelt thanks to Te Ati Awa, the local Māori iwi in the Wellington region who are mana whenua over these lands, and an EHF partner: https://teatiawa.iwi.nz/
+
+https://www.ehf.org
+https://stories.ehf.org
+https://facebook.com/edmundhillaryfel...
+https://twitter.com/EHFNewZealand
+https://instagram.com/edmundhillaryfe...
+https://www.linkedin.com/company-beta...
+https://www.newzealandnow.govt.nz/inv...
+
+EHF is wholly owned by the Hillary Institute of International Leadership (http://www.hillaryinstitute.com), and operates in partnership with Immigration New Zealand (https://www.immigration.govt.nz)
+
+Thank you to our EHF Catalysts, who support and catalyse the work of our Fellows:
+
+Centrality - https://www.centrality.ai
+BNZ - https://www.bnz.co.nz
+Wellington Regional Economic Development Agency (WREDA) - https://www.wellingtonnz.com/about-wreda
+Auckland Tourism, Events, Entertainment and Development (ATEED) - https://www.aucklandnz.com/about-ateed
+PL^G - https://www.plugblockchain.com
+SingleSource - https://www.centrality.ai/project/sin...
+Bell Gully - https://www.bellgully.com
+EY - https://webforms.ey.com
+Lane Neave - https://www.laneneave.co.nz
+The Blockchain Boutique - https://www.facebook.com/BlockchainBo...
+Digital Storytellers - http://digitalstorytellers.com.au
+
+Video produced by Royster Productions - http://www.roysterproductions.com&lt;/p&gt;
+      </googleplay:description>
+    </item>
+    </channel></rss>

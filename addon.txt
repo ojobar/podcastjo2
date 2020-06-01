@@ -1,0 +1,17 @@
+    <item>
+      <title>TITLEHERE</title>
+      <itunes:title>TITLEHERE</itunes:title>
+      <googleplay:author>SB</googleplay:author>
+      <itunes:author>SB</itunes:author>
+      <link>YTHERE</link>
+      <enclosure url="URLHERE" type="audio/x-mp3" length="18322645"/>
+      <pubDate>Thu, 28 May 2020 00:00:00 GMT</pubDate>
+      <guid>YTHERE</guid>
+      <description>&lt;p&gt;DESCRIPTIONHERE&lt;/p&gt;
+      </description>
+      <itunes:summary>&lt;p&gt;DESCRIPTIONHERE&lt;/p&gt;
+      </itunes:summary>
+      <googleplay:description>&lt;p&gt;DESCRIPTIONHERE&lt;/p&gt;
+      </googleplay:description>
+    </item></channel></rss>
+    <!-- EOF -->

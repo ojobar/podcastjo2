@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Bajocast</title>
+    <googleplay:author>SB</googleplay:author>
+    <itunes:author>SB</itunes:author>
+    <googleplay:category text="Technology"/>
+    <itunes:category text="Technology"/>
+    <googleplay:email>heroku-marketing-web-ops+accounts@salesforce.com</googleplay:email>
+    <itunes:email>heroku-marketing-web-ops+accounts@salesforce.com</itunes:email>
+    <link>https://www.heroku.com/podcasts/codeish</link>
+    <description>A podcast from the team at Bajo.</description>
+    <googleplay:description>A podcast from the team at Bajo.</googleplay:description>
+    <itunes:summary>A podcast from the team at Bajo.</itunes:summary>
+    <googleplay:image href="https://i.imgflip.com/3bs89r.jpg"/>
+    <itunes:image href="https://i.imgflip.com/3bs89r.jpg"/>
+    <language>en-us</language>
+    <ttl>60</ttl>
+    <itunes:explicit>no</itunes:explicit>
+    <googleplay:explicit>no</googleplay:explicit>
+    </channel></rss>
